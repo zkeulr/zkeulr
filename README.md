@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+![visitors](https://vbr.wocr.tk/badge?page_id=ezekielulrich.ezekielulrich)
 <!--
 **ezekielulrich/ezekielulrich** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
