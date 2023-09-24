@@ -4,6 +4,11 @@
 [![Linkedin: thaianebraga](https://img.shields.io/badge/-ezekielulrich-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ezekiel-ulrich/)](https://www.linkedin.com/in/ezekiel-ulrich/)
 [![GitHub Thaiane](https://img.shields.io/github/followers/ezekielulrich?label=follow&style=social)](https://github.com/ezekielulrich)
 
+## Table of Contents
+
+- [About me](#about-me)
+- [Stats](#stats)
+
 
 ## About me
 ```java
