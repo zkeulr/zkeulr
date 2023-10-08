@@ -15,7 +15,7 @@
 public class Ezekiel {
     public static final String UNIVERSITY = "Purdue";
     public static final String NICKNAME = "ZEKE";
-    public static final String JOB = "Tutor";
+    public static final String JOB = "Programmer";
     public static final int AGE = 20;
     public static final String[] LANGUAGES = {
         "English",
