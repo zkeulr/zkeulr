@@ -18,9 +18,12 @@ public class Ezekiel {
     public static final String JOB = "Programmer";
     public static final int AGE = 20;
     public static final String[] LANGUAGES = {
-        "English",
-        "Spanish",
-        "I'll master Korean one of these days lol"
+        // In sharply decreasing order of fluency
+        "English", // Native
+        "Spanish", // Crecí en Texas
+        "Chinese", // 我只学会了怎么问厕所
+        "French",  // Juste assez pour flirter
+        "Korean",  // 지금까지 듀오링고만 😂
     };
     public static final String[] PROGRAMMING_LANGUAGES = {
         "Java",
