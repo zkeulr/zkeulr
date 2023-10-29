@@ -20,10 +20,10 @@ public class Ezekiel {
     public static final String[] LANGUAGES = {
         // In sharply decreasing order of fluency
         "English", // Native
-        "Spanish", // Crecí en Texas
-        "Chinese", // 我只学会了怎么问厕所
-        "French",  // Juste assez pour flirter
-        "Korean",  // 지금까지 듀오링고만 😂
+        "Español", // Crecí en Texas
+        "中国人", // 我只学会了怎么问厕所
+        "Français",  // Juste assez pour flirter
+        "한국인",  // 지금까지 듀오링고만 😂
     };
     public static final String[] PROGRAMMING_LANGUAGES = {
         "Java",
