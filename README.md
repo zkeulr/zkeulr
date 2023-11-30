@@ -22,7 +22,7 @@ public class Ezekiel {
         "English", // Native
         "Español", // Crecí en Texas
         "中国人", // 我只学会了怎么问厕所
-        "Français",  // Juste assez pour flirter
+        "Français",  // Juste assez pour flirter avec ma petite amie
         "한국인",  // 지금까지 듀오링고만 😂
     };
     public static final String[] PROGRAMMING_LANGUAGES = {
