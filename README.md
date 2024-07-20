@@ -20,24 +20,20 @@ public class Ezekiel {
         "English", // Native
         "Español", // Crecí en Texas
         "中国人", // 我只学会了怎么问厕所
-        "Français",  // Juste assez pour flirter avec ma petite amie
+        "Français",  // Juste assez pour flirter
         "한국인",  // 지금까지 듀오링고만 😂
     };
     public static final String[] PROGRAMMING_LANGUAGES = {
         "Java",
+        "JavaScript",
         "Python",
         "C",
-        "MATLAB",
         "x86",
         "LaTeX"
     };
 
     private Ezekiel() {
-        System.out.println("If AI is your thing, let's connect!")
-    }
-
-    public static Goal getGoal() {
-        return new Goal("Research and help prevent existential risks to ensure humanity flourishes");
+        System.out.println("The mathematical challenge of finding the greatest good can expand the heart. Empathy opens the mind to suffering, and math keeps it open.")
     }
 }
 ```
