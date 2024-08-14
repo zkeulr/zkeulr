@@ -19,13 +19,14 @@ public class Ezekiel {
         // In sharply decreasing order of fluency
         "English", // Native
         "Español", // Crecí en Texas
+        "Italiano",  // Non ditelo ai francesi, ma l'Italia è il paese più bello d'Europa
         "中国人", // 我只学会了怎么问厕所
-        "Français",  // Juste assez pour flirter
-        "한국인",  // 지금까지 듀오링고만 😂
+        "Français"  // Juste assez pour flirter
     };
     public static final String[] PROGRAMMING_LANGUAGES = {
         "Java",
         "JavaScript",
+        "HTML",
         "Python",
         "C",
         "x86",
