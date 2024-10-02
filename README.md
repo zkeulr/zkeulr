@@ -1,4 +1,4 @@
-# Hi, I'm Ezekiel Ulrich!
+# Hi, I'm Zeke!
 
 [![GitHub Zeke](https://img.shields.io/github/followers/ezekielulrich?label=follow&style=social)](https://github.com/ezekielulrich)
 
@@ -10,7 +10,7 @@
 
 ## About me
 ```java
-public class Ezekiel {
+public class Zeke {
     public static final String UNIVERSITY = "Purdue";
     public static final String NICKNAME = "ZEKE";
     public static final String JOB = "Programmer";
@@ -21,7 +21,8 @@ public class Ezekiel {
         "Español", // Crecí en Texas
         "Italiano",  // Non ditelo ai francesi, ma l'Italia è il paese più bello d'Europa
         "中国人", // 我只学会了怎么问厕所
-        "Français"  // Juste assez pour flirter
+        "Français",  // Juste assez pour flirter
+        "हिन्दी" // अच्छा नहीं है
     };
     public static final String[] PROGRAMMING_LANGUAGES = {
         "Java",
@@ -29,13 +30,10 @@ public class Ezekiel {
         "HTML",
         "Python",
         "C",
+        "Rust",
         "x86",
         "LaTeX"
     };
-
-    private Ezekiel() {
-        System.out.println("The mathematical challenge of finding the greatest good can expand the heart. Empathy opens the mind to suffering, and math keeps it open.")
-    }
 }
 ```
 
