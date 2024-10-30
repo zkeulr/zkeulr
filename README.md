@@ -1,6 +1,6 @@
 # Hi, I'm Zeke!
 
-[![GitHub Zeke](https://img.shields.io/github/followers/ezekielulrich?label=follow&style=social)](https://github.com/zkeulr)
+[![GitHub Zeke](https://img.shields.io/github/followers/zkeulr?label=follow&style=social)](https://github.com/zkeulr)
 
 ## Table of Contents
 
