@@ -1,6 +1,6 @@
 # Hi, I'm Zeke!
 
-[![GitHub Zeke](https://img.shields.io/github/followers/ezekielulrich?label=follow&style=social)](https://github.com/ezekielulrich)
+[![GitHub Zeke](https://img.shields.io/github/followers/ezekielulrich?label=follow&style=social)](https://github.com/zkeulr)
 
 ## Table of Contents
 
@@ -39,4 +39,4 @@ public class Zeke {
 
 ## Stats
 
-<p><img src="https://github-readme-stats.vercel.app/api?username=ezekielulrich&theme=github_dark_dimmed&hide_border=true&include_all_commits=false&count_private=true" alt="ezekielulrich" /><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ezekielulrich&theme=github_dark_dimmed&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="ezekielulrich" /></p>
+<p><img src="https://github-readme-stats.vercel.app/api?username=zkeulr&theme=github_dark_dimmed&hide_border=true&include_all_commits=false&count_private=true" alt="zkeulr" /><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zkeulr&theme=github_dark_dimmed&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="zkeulr" /></p>
