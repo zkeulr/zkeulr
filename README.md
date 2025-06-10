@@ -1,4 +1,4 @@
-# Hi, I'm Zeke!
+# Hi, I'm zkeulr!
 
 [![GitHub Zeke](https://img.shields.io/github/followers/zkeulr?label=follow&style=social)](https://github.com/zkeulr)
 
@@ -10,9 +10,8 @@
 
 ## About me
 ```java
-public class Zeke {
+public class zkeulr {
     public static final String UNIVERSITY = "Purdue";
-    public static final String NICKNAME = "ZEKE";
     public static final String JOB = "Programmer";
     public static final int AGE = 20;
     public static final String[] LANGUAGES = {
